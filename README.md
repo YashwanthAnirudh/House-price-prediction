@@ -5,7 +5,11 @@ The goal of this project is to develop a machine learning model capable of accur
 
 
 # Project file and Input data
- 
+House Prices Prediction.ipynb contains the python code of the project which includes the Data cleaning , Feature Engineering , Model training and Hyperparameter Tuning.
+
+bengaluru_house_prices( Input dataset).csv- contains the dataset from kaggle that I have used for the project.
+
+banglore_home_prices_model.pickle contains the final saved model in pickle file.
 
 # Process
 
