@@ -1,5 +1,4 @@
 # House-price-prediction
-# image_classification
 
 # Problem statement 
 The goal of this project is to develop a machine learning model capable of accurately predicting real estate prices in Bangalore based on key features such as area, number of bedrooms, and number of bathrooms. The model will utilize the Bangalore home prices dataset sourced from Kaggle. This involves handling the entire machine learning pipeline, including data preprocessing, feature engineering, model selection, hyperparameter tuning, and performance evaluation. The final model will be saved and deployed to power the backend of a real estate price prediction website.
