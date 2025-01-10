@@ -56,7 +56,7 @@ Ensured all text data was transformed into numerical form, making the dataset co
 
 **Initial Model:**
 
-Selected Linear Regression for its effectiveness in predicting house prices based on dependent variables like location and BHK.
+Selected Linear Regression for its effectiveness in predicting house prices which is the dependent variable based on independent variables like location and BHK.
 
 Split the dataset into training and testing sets using train_test_split.
 
